@@ -19,8 +19,7 @@ setuptools.setup(name='pdfviewer',
                      'Pillow',
                      'pdfplumber',
                      'PyPDF2',
-                     'pytesseract',
-                     'pdfminer.six'
+                     'pytesseract'
                  ],
                  dependency_links=[
                      'https://github.com/tesseract-ocr/tesseract',
