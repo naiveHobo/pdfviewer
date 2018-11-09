@@ -8,7 +8,7 @@ print(setuptools.find_packages())
 setuptools.setup(name='pdfviewer',
                  version='0.1',
                  description='Tkinter based GUI to view PDF files',
-                 url='https://github.com/naiveHobo/InvoiceNet--Parserr',
+                 url='https://github.com/naiveHobo/pdfviewer.git',
                  author='naiveHobo',
                  author_email='sarthakmittal2608@gmail.com',
                  license='MIT',
@@ -21,8 +21,4 @@ setuptools.setup(name='pdfviewer',
                      'PyPDF2',
                      'pytesseract'
                  ],
-                 dependency_links=[
-                     'https://github.com/tesseract-ocr/tesseract',
-                 ],
                  zip_safe=False)
-
