@@ -1,6 +1,12 @@
 # PDFViewer
 PDFViewer is a GUI tool, written using python3 and tkinter, which lets you view PDF documents.
 
+<p float="left">
+  <img src="/images/pdfviewer_1.png" width="500" />
+  <img src="/images/pdfviewer_2.png" width="500" /> 
+</p>
+
+
 ## Installation
 To install PDFViewer along with the dependencies:
 ```
